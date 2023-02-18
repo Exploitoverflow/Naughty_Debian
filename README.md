@@ -3,7 +3,7 @@ Simple script to inject bash script inside any debian package. It utilises prein
 
 # Install
 ```bash
-git clone https://github.com/Hellsender01/Naughty_Debian.git
+git clone https://github.com/Exploitoverflow/Naughty_Debian.git
 cd Naughty_Debian/
 python3 -m pip install -r requirements.txt
 sudo chmod +x naughty_debian.py
